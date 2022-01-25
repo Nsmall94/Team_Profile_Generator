@@ -1,20 +1,5 @@
 {
-    "name": "team-builder",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "test": "jest"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Nsmall94/Team_Profile_Generator"
-    },
-    "homepage": "https://github.com/Nsmall94/Team_Profile_Generator/blob/main/README.md",
-    "devDependencies": {
-      "jest": "^27.3.1"
-    },
-    "dependencies": {
-      "inquirer": "^8.2.0"
-    }
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
+}
